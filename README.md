@@ -1,2 +1,2 @@
-# Data-Analysis-of-Salaried-Employees
-This is a data analysis project on the basis of an excel sheet depicting salaries of employees. 
+# This is all about the 
+# This is a data analysis project on the basis of an excel sheet depicting salaries of employees. The dataset has been taken as sample dataset. The analysis has been performed on some crucial parameters. I have installed python and then NumPy and Pandas. I have done it in Pandas. The main objective of the project is to find several insights regarding the salary of the employees in an organization. The Human Resource Department can use these insights to understand the performance of employees that leads to take appropriate decision during the time of appraisal or employee retainship. 
